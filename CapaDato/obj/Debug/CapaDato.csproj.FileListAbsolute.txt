@@ -1,0 +1,26 @@
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.dll
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.pdb
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.dll
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.pdb
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.dll
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.pdb
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.dll
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.pdb
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.dll
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.pdb
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.dll
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.pdb
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.dll
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.pdb
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.dll
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.pdb
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.dll
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\bin\Debug\CapaDato.pdb
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.csproj.AssemblyReference.cache
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.dll
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaDato\obj\Debug\CapaDato.pdb

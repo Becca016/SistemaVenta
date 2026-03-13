@@ -1,0 +1,37 @@
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.dll
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.pdb
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+d:\Users\BECKY\Desktop\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.dll
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.pdb
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Otros Documentos\Maru tesis\maru\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.dll
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.pdb
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+d:\Users\BECKY\Desktop\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.dll
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.pdb
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\TODO\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Becky\PRÀCTICAS\Sistema Ventas C#\SistemaVenta C#\SistemaVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb

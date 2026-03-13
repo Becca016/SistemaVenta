@@ -1,0 +1,90 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
+
+using CapaDato;
+
+namespace CapaNegocio
+{
+   public class NProveedor
+    {
+        //Mètodo Insertar que llama al mètodo Insertar de la clase DProveedor
+
+        public static string Insertar(string razon_social, string sector_comercial,string tipo_documento,string num_documento,
+           string direccion,string telefono,string email,string url)
+
+        {
+            DProveedor Obj = new DProveedor();
+            Obj.Razon_Social = razon_social;
+            Obj.Sector_Comercial = sector_comercial;
+            Obj.Tipo_Documento = tipo_documento;
+            Obj.Num_Documento = num_documento;
+            Obj.Direccion = direccion;
+            Obj.Telefono = telefono;
+            Obj.Email = email;
+            Obj.Url = url;
+
+            return Obj.Insertar(Obj);
+        }
+
+        //Mètodo Editar que llama al mètodo Editar de la clase DProveedor
+        public static string Editar(int idproveedor, string razon_social, string sector_comercial, string tipo_documento, string num_documento,
+           string direccion, string telefono, string email, string url)
+        {
+            DProveedor Obj = new DProveedor();
+            Obj.Idproveedor = idproveedor;
+            Obj.Razon_Social = razon_social;
+            Obj.Sector_Comercial = sector_comercial;
+            Obj.Tipo_Documento = tipo_documento;
+            Obj.Num_Documento = num_documento;
+            Obj.Direccion = direccion;
+            Obj.Telefono = telefono;
+            Obj.Email = email;
+            Obj.Url = url;
+
+            return Obj.Editar(Obj);
+
+        }
+        //Mètodo Eliminar que llama al mètodo Eliminar de la clase DProveedor
+        // de la CapaDato
+        public static string Eliminar(int idproveedor)
+
+        {
+            DProveedor Obj = new DProveedor();
+            Obj.Idproveedor = idproveedor;
+            return Obj.Eliminar(Obj);
+        }
+
+        //Mètodo Mostrar que llama al mètodo Mostrar de la clase DProveedor
+        // de la CapaDato
+
+        public static DataTable Mostrar()
+        {
+            return new DProveedor().Mostrar();
+        }
+        //Mètodo BuscarRazon_Social  que llama al mètodo BuscarRazon_Social de la clase DProveedor
+        // de la CapaDato
+
+        public static DataTable BuscarRazon_Social(string textobuscar)
+        {
+            DProveedor Obj = new DProveedor();
+            Obj.TextoBuscar = textobuscar;
+            return Obj.BuscarRazon_Social(Obj);
+
+        }
+
+        //Mètodo BuscarNum_documento  que llama al mètodo BuscarNum_documento de la clase DProveedor
+        // de la CapaDato
+
+        public static DataTable BuscarNum_Documento(string textobuscar)
+        {
+            DProveedor Obj = new DProveedor();
+            Obj.TextoBuscar = textobuscar;
+            return Obj.BuscarNum_Documento(Obj);
+
+        }
+    }
+}
+
