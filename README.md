@@ -27,11 +27,11 @@ Eliminar registros del sistema.
 Registrar ventas.
 
 
-Autor principal del proyecto:
+AUTOR PRINCIPAL DEL PROYECTO:
 Juan Carlos Arcilas Díaz.
 
-Práctica y adaptación:
+PRÁCTICA Y ADAPTACIÓN:
 Rebeca Lezcano – Ingeniera en Informática.
 
-Este proyecto fue utilizado como base de aprendizaje y práctica para reforzar conocimientos en desarrollo con C# (.NET) y SQL Server, 
+Este proyecto he utilizado como base de aprendizaje y práctica para reforzar mis conocimientos en desarrollo con C# (.NET) y SQL Server, 
 implementando funcionalidades CRUD y gestión de ventas.
